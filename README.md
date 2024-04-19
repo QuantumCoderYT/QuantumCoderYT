@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm QuantumCoderYT! 👋
 
-<!--
-**QuantumCoderYT/QuantumCoderYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer passionate about Java and specialized in creating plugins for Minecraft using the SpigotMC platform.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Minecraft plugin developer.
+- 🔭 Currently learning C++
+- 🌱 Currently working on private and public projects for the SpigotMC community.
+- 💬 Open to collaborations and willing to listen to ideas and suggestions.
+- 📫 You can contact me through Discord: [quantumcoderyt](#).
+
+## Featured projects
+
+### Whitelist+
+
+Whitelist+ is a whitelist plugin for Minecraft servers, designed to provide effective and easy-to-use access control - check out [Whitelist+](https://www.spigotmc.org/resources/whitelist.103636/) on the SpigotMC page!
+
+## Collaboration
+
+I am open to receive contributions on my projects, as well as to collaborate on interesting Minecraft related projects. If you have any ideas or proposals, feel free to contact me!
+
+## Languages
+
+My main language is Spanish, although I can understand and communicate in **very** basic English.
+
+Thanks for visiting my profile! I hope you find my projects interesting and that we can collaborate together in the future.
